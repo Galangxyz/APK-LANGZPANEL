@@ -27,6 +27,9 @@ Aplikasi ini hampir sepenuhnya mirip dengan website Langz Panel, namun ada beber
 - **Fitur Diskusi**: Fitur diskusi yang ada di website tidak ada dalam aplikasi ini.
 - **Fitur Upload Produk Secara Global**: Aplikasi tidak menyediakan fitur upload produk global. Untuk menggunakan fitur ini, kunjungi [https://langzpanel.mataberita.com](https://langzpanel.mataberita.com).
 
+## Base APK Build VITE REACT
+Base build project Vite React Convert to APK WITH MODULE CORDOVA [di sini](https://github.com/Galangxyz/BASE-APK)
+
 ## Instalasi
 1. **Unduh APK**: Klik [di sini](https://github.com/Galangxyz/APK-LANGZPANEL/raw/refs/heads/master/LangzPanel.apk) untuk mengunduh APK terbaru.
 2. **Install di perangkat Android**: Setelah diunduh, buka file APK dan ikuti petunjuk untuk menginstal aplikasi.
