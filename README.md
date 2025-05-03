@@ -2,7 +2,7 @@
 
 Langz Panel APK adalah aplikasi Android hasil konversi dari website PWA menggunakan **Cordova**. Aplikasi ini sudah dirilis dalam bentuk APK dan menawarkan berbagai fitur bermanfaat secara gratis. Aplikasi ini hampir sama dengan versi webnya, namun ada beberapa perbedaan utama, seperti tidak adanya fitur login, diskusi, dan upload produk secara global.
 
-![Langz Panel](https://files.catbox.moe/bp2mrn.png) <!-- Ganti dengan link gambar yang sesuai -->
+![Langz Panel](https://files.catbox.moe/bp2mrn.png)
 
 ## Fitur-fitur yang Tersedia
 Langz Panel APK menyediakan berbagai fitur menarik yang bisa digunakan secara gratis:
@@ -33,8 +33,8 @@ Aplikasi ini hampir sepenuhnya mirip dengan website Langz Panel, namun ada beber
 
 ## Kontribusi
 Jika kamu ingin berkontribusi pada pengembangan aplikasi ini, kamu bisa mengikuti langkah-langkah berikut:
-- Fork repo ini.
-- Buat pull request untuk review.
+- **Fork** repo ini.
+- **Buat pull request** untuk review.
 
 Tinggalkan jejakmu dengan mengikuti dan memberi bintang (star) pada repo ini. Terima kasih! 😊
 
