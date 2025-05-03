@@ -8,17 +8,17 @@ Langz Panel APK adalah aplikasi Android hasil konversi dari website PWA mengguna
 Langz Panel APK menyediakan berbagai fitur menarik yang bisa digunakan secara gratis:
 
 - **TikTok Downloader**: Unduh video TikTok dengan mudah.
-  ![TikTok Downloader](https://linkgambar.com/tiktokdownloader-image) <!-- Ganti dengan link gambar yang sesuai -->
+  ![TikTok Downloader](https://files.catbox.moe/5uq3w6.jpg)
 - **VCC Generator**: Membuat Virtual Credit Card (VCC) secara otomatis.
-  ![VCC Generator](https://linkgambar.com/vccgenerator-image) <!-- Ganti dengan link gambar yang sesuai -->
+  ![VCC Generator](https://files.catbox.moe/qa1bin.jpg) 
 - **YouTube MP4 Downloader**: Unduh video YouTube dalam format MP4.
-  ![YouTube MP4 Downloader](https://linkgambar.com/youtubemp4downloader-image) <!-- Ganti dengan link gambar yang sesuai -->
+  ![YouTube MP4 Downloader](https://files.catbox.moe/rs99dc.jpg)
 - **Image to URL**: Ubah gambar menjadi URL yang dapat dibagikan.
-  ![Image to URL](https://linkgambar.com/imagetourl-image) <!-- Ganti dengan link gambar yang sesuai -->
+  ![Image to URL](https://files.catbox.moe/4ldjfr.jpg) 
 - **Remove BG**: Hapus latar belakang dari gambar secara otomatis.
-  ![Remove BG](https://linkgambar.com/removebg-image) <!-- Ganti dengan link gambar yang sesuai -->
+  ![Remove BG](https://files.catbox.moe/fjisva.jpg)
 - **Text to QR**: Mengubah teks menjadi QR Code.
-  ![Text to QR](https://linkgambar.com/texttoqr-image) <!-- Ganti dengan link gambar yang sesuai -->
+  ![Text to QR](https://files.catbox.moe/k8wt1j.jpg)
 
 ## Perbedaan dengan Website
 Aplikasi ini hampir sepenuhnya mirip dengan website Langz Panel, namun ada beberapa fitur yang tidak tersedia di aplikasi:
